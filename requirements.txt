@@ -3,6 +3,5 @@ Pandas
 Matplotlib  
 Seaborn  
 SQLAlchemy  
-SQLite 
 NumPy  
 Openpyxl 
